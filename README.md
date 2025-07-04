@@ -17,6 +17,13 @@ This interactive Streamlit dashboard helps you visualize and forecast daily COVI
 
 ---
 
+## 🚀 Demo
+
+Try the app live here:  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nikita98062-covid-19-project-app-knatrz.streamlit.app/)
+
+---
+
 ## 🚦 How It Works
 
 1. **Data Loading:**  
